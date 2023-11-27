@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\FoodOrderManaging\obj\Debug\net7.0\FoodOrderManaging.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\FoodOrderManaging\obj\Debug\net7.0\FoodOrderManaging.Addfood.resources
+C:\Users\PC\Desktop\FoodOrderManaging\obj\Debug\net7.0\FoodOrderManaging.Adduser.resources
+C:\Users\PC\Desktop\FoodOrderManaging\obj\Debug\net7.0\FoodOrderManaging.Admindashboard.resources
+C:\Users\PC\Desktop\FoodOrderManaging\obj\Debug\net7.0\FoodOrderManaging.Cashierdashboard.resources
+C:\Users\PC\Desktop\FoodOrderManaging\obj\Debug\net7.0\FoodOrderManaging.Fooddetails.resources
+C:\Users\PC\Desktop\FoodOrderManaging\obj\Debug\net7.0\FoodOrderManaging.Login.resources
+C:\Users\PC\Desktop\FoodOrderManaging\obj\Debug\net7.0\FoodOrderManaging.Managefood.resources
+C:\Users\PC\Desktop\FoodOrderManaging\obj\Debug\net7.0\FoodOrderManaging.Manageoffers.resources
+C:\Users\PC\Desktop\FoodOrderManaging\obj\Debug\net7.0\FoodOrderManaging.Manageuser.resources
+C:\Users\PC\Desktop\FoodOrderManaging\obj\Debug\net7.0\FoodOrderManaging.Offerdetails.resources
+C:\Users\PC\Desktop\FoodOrderManaging\obj\Debug\net7.0\FoodOrderManaging.FoodOrderManaging.Properties.Resources.resources
+C:\Users\PC\Desktop\FoodOrderManaging\obj\Debug\net7.0\FoodOrderManaging.Userdetails.resources
+C:\Users\PC\Desktop\FoodOrderManaging\obj\Debug\net7.0\FoodOrderManaging.csproj.GenerateResource.cache

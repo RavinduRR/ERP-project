@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\FoodOrderManaging\FoodOrderManaging\obj\Debug\obj\Debug\net7.0\Debug.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\FoodOrderManaging\FoodOrderManaging\obj\Debug\obj\Debug\net7.0\Debug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\FoodOrderManaging\FoodOrderManaging\obj\Debug\obj\Debug\net7.0\Debug.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\FoodOrderManaging\FoodOrderManaging\obj\Debug\obj\Debug\net7.0\Debug.AssemblyInfo.cs
+C:\Users\PC\Desktop\FoodOrderManaging\FoodOrderManaging\obj\Debug\obj\Debug\net7.0\Debug.csproj.CoreCompileInputs.cache
